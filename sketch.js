@@ -33,7 +33,7 @@ function draw() {
 }
 
 function readStock(data){
-  foodS-data.val();
+  foodS=data.val();
   console.log(foodS);
 }
 function showerror(){
